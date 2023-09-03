@@ -1,0 +1,14 @@
+C:\Users\CK\source\repos\BMI_CK\bin\Debug\net7.0\BMI_CK.exe
+C:\Users\CK\source\repos\BMI_CK\bin\Debug\net7.0\BMI_CK.deps.json
+C:\Users\CK\source\repos\BMI_CK\bin\Debug\net7.0\BMI_CK.runtimeconfig.json
+C:\Users\CK\source\repos\BMI_CK\bin\Debug\net7.0\BMI_CK.dll
+C:\Users\CK\source\repos\BMI_CK\bin\Debug\net7.0\BMI_CK.pdb
+C:\Users\CK\source\repos\BMI_CK\obj\Debug\net7.0\BMI_CK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CK\source\repos\BMI_CK\obj\Debug\net7.0\BMI_CK.AssemblyInfoInputs.cache
+C:\Users\CK\source\repos\BMI_CK\obj\Debug\net7.0\BMI_CK.AssemblyInfo.cs
+C:\Users\CK\source\repos\BMI_CK\obj\Debug\net7.0\BMI_CK.csproj.CoreCompileInputs.cache
+C:\Users\CK\source\repos\BMI_CK\obj\Debug\net7.0\BMI_CK.dll
+C:\Users\CK\source\repos\BMI_CK\obj\Debug\net7.0\refint\BMI_CK.dll
+C:\Users\CK\source\repos\BMI_CK\obj\Debug\net7.0\BMI_CK.pdb
+C:\Users\CK\source\repos\BMI_CK\obj\Debug\net7.0\BMI_CK.genruntimeconfig.cache
+C:\Users\CK\source\repos\BMI_CK\obj\Debug\net7.0\ref\BMI_CK.dll
